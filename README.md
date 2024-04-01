@@ -5,7 +5,6 @@
 
 ![RaphaelBraganca GitHub stats](https://github-readme-stats.vercel.app/api?username=devraphaelbraganca&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devraphaelbraganca&layout=compact)](https://github.com/devraphaelbraganca/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
